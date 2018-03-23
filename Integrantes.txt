@@ -1,0 +1,7 @@
+El proyecto funciona con Apache Tomcat
+
+Integrantes:
+
+William Gil
+Jhon Rodríguez
+Angel Gutierrez
